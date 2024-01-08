@@ -1,3 +1,11 @@
+@font-face {
+    font-family: nostalgia;
+    src: url(nostalgia.woff2);
+}
+@font-face {
+    font-family: open sans;
+    src: url(OpenSans-Medium.woff2);
+}
 *{
     margin: 0;
     padding: 0;
